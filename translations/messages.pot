@@ -16,25 +16,25 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 #: Command/Admin/CleansessionsCommand.php:149
-msgid "Create New Session"
+msgid "انشاء جلسة جديدة"
 msgstr ""
 
 #: Command/Admin/CleansessionsCommand.php:156
-msgid "This game session has expired."
+msgid "انتهت جلسة اللعبة هذه."
 msgstr ""
 
 #: Command/Admin/CleansessionsCommand.php:213
 #: Command/System/InlinequeryCommand.php:124 Entity/Game.php:805
-msgid "Create"
+msgid "انشاء"
 msgstr ""
 
 #: Command/System/CallbackqueryCommand.php:73
-msgid "Bad request!"
+msgid "اقتراح غير جيد!"
 msgstr ""
 
 #: Command/System/InlinequeryCommand.php:49 Entity/Game.php:634
 #: Entity/Game.php:708
-msgid "This game session is empty."
+msgid "جلسة اللعبة هذه فارغة."
 msgstr ""
 
 #: Command/User/StartCommand.php:60
@@ -47,7 +47,7 @@ msgid "Play"
 msgstr ""
 
 #: Command/User/StartCommand.php:61
-msgid "To begin, start a message with {USAGE} in any of your chats or click the {BUTTON} button and then select a chat to play in."
+msgid "للبدء ، ابدأ رسالة بـ {USAGE} في أي من الدردشات الخاصة بك أو انقر فوق {BUTTON} زر ثم حدد دردشة للعب فيها."
 msgstr ""
 
 #: Entity/Game.php:232
